@@ -1,21 +1,25 @@
 .header-bg {
-  background-image: url("./images/bg-header-desktop.png");
-  background-size: cover;
-  background-position: center;
-  min-height: 300px;
+    background-image: url("./images/bg-header-desktop.png");
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
 }
 
-.py-1, .py-5, .py-3, .py-4 {
-  font-family: 'Bai Jamjuree', sans-serif;
+.py-1,
+.py-5,
+.py-3,
+.py-4 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    color:hsl(210, 10%, 33%) ;
 }
 
 .btn.btn-success {
-  background-color: hsl(171, 66%, 44%);
-  border: none;
+    background-color: hsl(171, 66%, 44%);
+    border: none;
 }
 
 .btn.btn-secondary {
     background-color: hsl(233, 100%, 69%);
     border: none;
 }
-
