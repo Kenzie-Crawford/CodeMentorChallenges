@@ -23,3 +23,12 @@
     background-color: hsl(233, 100%, 69%);
     border: none;
 }
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
