@@ -1,0 +1,7 @@
+.header-bg {
+  background-image: url("./images/bg-header-desktop.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+}
+
